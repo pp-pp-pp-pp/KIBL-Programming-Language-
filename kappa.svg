@@ -1,0 +1,8 @@
+<svg width="40" height="65" xmlns="http://www.w3.org/2000/svg">
+  <!-- Original Path -->
+  <path d="M 10,15 C 15,5 25,10 20,20 C 20,25 10,40 10,40 L 30,25" fill="none" stroke="black" stroke-width="2.1"/>
+  
+  <!-- Mirrored and Flipped Path -->
+  <path d="M10,15 C 15,5 25,10 20,20 C 20,25 10,40 10,40 L 30,25" fill="none" stroke="black" stroke-width="2.1"
+        transform="translate(40, 65) scale(-1, -1)"/>
+</svg>
